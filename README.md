@@ -65,6 +65,7 @@ Helikoptéry nemůžou nabírat logistické krabice, pouze vojáky
 
 ## Problémy / TODO
 - vypnout spektator
+  - povedlo se mi lokalne vypnout spektator pomoci mics. menu ale asi to bude jenom v singlu, overit pro multak, jinak poresit upravou mizu - https://forum.dcs.world/topic/206999-is-it-possible-to-remove-the-f10-map-view-for-spectators-in-mp-servers/
 - perzistence
 - IADS
 - CTLD - vypnout krabice pro heli
