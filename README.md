@@ -31,10 +31,10 @@ Každé další letiště má svůj inventář munice, paliva a letadel a tyto s
 
 ## Logistika
 Hercules může nabírat vojáky a navíc:
-- BTR82A krabice s a bez padáku
-- LAV25 krabice s a bez padáku
-- strela krabice s a bez padáku
-- chapparal krabice bez padáku
+- "APC BTR-82A" krabice s a bez padáku
+- "LAV25" krabice s a bez padáku
+- "SA-13 Gopher aka Strela-10" krabice s a bez padáku
+- "MIM-72A/M48 Chaparral" krabice bez padáku
 - krabice na stavbu FOBu
 - krabice s municí pro jiné letiště
 - palivové nádrže pro jiné letiště
@@ -69,5 +69,7 @@ Helikoptéry nemůžou nabírat logistické krabice, pouze vojáky
 - IADS
 - CTLD - vypnout krabice pro heli
 - donastavit FOB
+- donastavit naklad pro herkulesa - sa10 nenalezena
 - upravená Mother of all bombs?
-
+- opravdu nepujdou v herkulovi vozit RWR a jiné PVO veci?
+- pouzijeme k necemu vozeni genericke krabice?
